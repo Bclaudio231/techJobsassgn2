@@ -1,0 +1,13 @@
+D:\TechJobsOO\TechJobsOO\bin\Release\netcoreapp3.1\TechJobsOO.exe
+D:\TechJobsOO\TechJobsOO\bin\Release\netcoreapp3.1\TechJobsOO.deps.json
+D:\TechJobsOO\TechJobsOO\bin\Release\netcoreapp3.1\TechJobsOO.runtimeconfig.json
+D:\TechJobsOO\TechJobsOO\bin\Release\netcoreapp3.1\TechJobsOO.runtimeconfig.dev.json
+D:\TechJobsOO\TechJobsOO\bin\Release\netcoreapp3.1\TechJobsOO.dll
+D:\TechJobsOO\TechJobsOO\bin\Release\netcoreapp3.1\TechJobsOO.pdb
+D:\TechJobsOO\TechJobsOO\obj\Release\netcoreapp3.1\TechJobsOO.csprojAssemblyReference.cache
+D:\TechJobsOO\TechJobsOO\obj\Release\netcoreapp3.1\TechJobsOO.AssemblyInfoInputs.cache
+D:\TechJobsOO\TechJobsOO\obj\Release\netcoreapp3.1\TechJobsOO.AssemblyInfo.cs
+D:\TechJobsOO\TechJobsOO\obj\Release\netcoreapp3.1\TechJobsOO.csproj.CoreCompileInputs.cache
+D:\TechJobsOO\TechJobsOO\obj\Release\netcoreapp3.1\TechJobsOO.dll
+D:\TechJobsOO\TechJobsOO\obj\Release\netcoreapp3.1\TechJobsOO.pdb
+D:\TechJobsOO\TechJobsOO\obj\Release\netcoreapp3.1\TechJobsOO.genruntimeconfig.cache
